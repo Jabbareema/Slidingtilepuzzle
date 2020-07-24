@@ -12,13 +12,6 @@
   }
 
 
-/****************************************************************************************
- * Compilation: javac Board.java
- * Execution:
- * Dependencies: java.util, java.lang stdlib.jar
- *
- * This program creates an immutable data type for solving 8-puzzle
- * problem.
 ****************************************************************************************/
 import java.util.Arrays;
 
